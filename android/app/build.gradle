@@ -76,7 +76,7 @@ dependencies {
 
     implementation 'androidx.documentfile:documentfile:1.0.1'
     implementation 'androidx.preference:preference:1.1.1'
-
+    implementation 'com.google.android.material:material:<version>'
     //Shizuku/Sui
     def shizuku_version = '11.0.1'
     implementation "rikka.shizuku:api:$shizuku_version"
